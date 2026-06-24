@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+bot_data.db
+.DS_Store
+playwright-report/
+test-results/
